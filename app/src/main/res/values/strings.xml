@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SportNews</string>
+    <string name="error_message">Error. Please try again</string>
+    <string name="home_title">FEATURED</string>
+</resources>
